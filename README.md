@@ -11,9 +11,10 @@
 	d. open your preferred web browser and visit "localhost/ToDoList"
 
 # Issues:
+Will post any issues here
 
-
-# Structure - XAAMP (using apache, mysql, php)
+# Structure
+XAAMP (using apache, mysql, php)
 
 # SQL Tables:
 1. Users
