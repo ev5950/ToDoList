@@ -12,7 +12,6 @@
 	e. Open your preferred web browser and visit "localhost/ToDoList"
 
 # Issues:
-Will post any issues here
 	a. DATE variable in the Create Task Form causes an issue when not picked (typed)
 	b. Updating a task does not show until user refreshes index or browses a bit
 
