@@ -7,9 +7,10 @@
 	to run the program
 	a. download and install XAMPP (https://www.apachefriends.org/download.html)
 	b. run XAMPP and Start apache/sql
-	c. place App folder in "C:\xampp\htdocs"
-	d. create "todolistdb" databases in mySQL along with the tables users, tasks (See below for SQL Code)
-	e. Open your preferred web browser and visit "localhost/ToDoList"
+	c. Run "$ git clone https://github.com/ev5950/ToDoList.git"
+	d. Place the cloned folder in "C:\xampp\htdocs"
+	e. create "todolistdb" databases in mySQL along with the tables users, tasks (See below for SQL Code)
+	f. Open your preferred web browser and visit "localhost/ToDoList"
 
 # Issues:
 	a. DATE variable in the Create Task Form causes an issue when not picked (typed)
